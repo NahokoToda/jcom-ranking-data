@@ -1,5 +1,5 @@
 {
-  "period": "2026/08/05 〜 2026/08/12",
+  "period": "2026/08/06 〜 2026/08/13",
   "data": {
     "total": [
       {
@@ -32,17 +32,17 @@
       },
       {
         "rank": 5,
+        "category": "韓国・アジアドラマ",
+        "title": "バイルー（白鹿）が流す血の涙が胸をえぐる！「臨江仙」で見せた圧巻の一人二役",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001615/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260811_bailu_01.jpg"
+      },
+      {
+        "rank": 6,
         "category": "ドキュメンタリー",
         "title": "藤井聡太王将＆豊島将之銀河インタビュー「読み筋公開対局」から見えたトップ棋士の思考プロセス",
         "url": "https://jmagazine.myjcom.jp/category/documentary/post001551/",
         "image": "https://jmagazine.myjcom.jp/uploads/260807_yomisuji_01.jpg"
-      },
-      {
-        "rank": 6,
-        "category": "アニメ",
-        "title": "これだけは見てほしい！大人も泣ける『映画クレヨンしんちゃん』おすすめ5選",
-        "url": "https://jmagazine.myjcom.jp/category/anime/post000757/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250727_shinchan01.jpg"
       },
       {
         "rank": 7,
@@ -53,24 +53,24 @@
       },
       {
         "rank": 8,
+        "category": "アニメ",
+        "title": "これだけは見てほしい！大人も泣ける『映画クレヨンしんちゃん』おすすめ5選",
+        "url": "https://jmagazine.myjcom.jp/category/anime/post000757/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250727_shinchan01.jpg"
+      },
+      {
+        "rank": 9,
         "category": "韓国・アジアドラマ",
         "title": "「素晴らしき新世界」ホ・ナムジュンに沼落ち続出！演技の振り幅を堪能できる代表作3選",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001488/",
         "image": "https://jmagazine.myjcom.jp/uploads/260623_heonamjun01.jpg"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "category": "アニメ",
         "title": "声優・阿座上洋平さんインタビュー#3「エゴを捨てた先にある、作品への覚悟」",
         "url": "https://jmagazine.myjcom.jp/category/anime/post001596/",
         "image": "https://jmagazine.myjcom.jp/uploads/260807_azagami3_01.jpg"
-      },
-      {
-        "rank": 10,
-        "category": "韓国・アジアドラマ",
-        "title": "イ・ジェフン『交渉の技術』独占インタビュー　「役作りと白髪の意味」",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001167/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20260200_jehoon_01.jpg"
       }
     ],
     "anime": [
@@ -156,37 +156,37 @@
       {
         "rank": 2,
         "category": "映画",
-        "title": "のんが魅せる新境地――吉永小百合の青年期役の好演から橋本愛との再共演まで、才能が爆発した映画3選",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001611/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260809_non01.jpg"
-      },
-      {
-        "rank": 3,
-        "category": "映画",
         "title": "朝ドラヒロインへの期待大！女優・河合優実の評価を高めた必見映画3選",
         "url": "https://jmagazine.myjcom.jp/category/movie/post001595/",
         "image": "https://jmagazine.myjcom.jp/uploads/2607KawaiYumi01.jpg"
       },
       {
+        "rank": 3,
+        "category": "映画",
+        "title": "のんが魅せる新境地――吉永小百合の青年期役の好演から橋本愛との再共演まで、才能が爆発した映画3選",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001611/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260809_non01.jpg"
+      },
+      {
         "rank": 4,
+        "category": "映画",
+        "title": "ウーレイ（呉磊）が映画で新境地！ドラマとは違う表情と繊細な演技力で存在感を発揮",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001427/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260618_wuLei%20_01.jpg"
+      },
+      {
+        "rank": 5,
         "category": "映画",
         "title": "『ミニオンズ』が大人に刺さる理由――ポンコツなのに愛される最強の「部下力」",
         "url": "https://jmagazine.myjcom.jp/category/movie/post001577/",
         "image": "https://jmagazine.myjcom.jp/uploads/260802_minions_01.jpg"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "category": "映画",
         "title": "塚原あゆ子監督が仕掛ける「光と音」の魔法――『ラストマイル』、『グランメゾン・パリ』などヒット作を生み続ける「神演出」を徹底解剖",
         "url": "https://jmagazine.myjcom.jp/category/movie/post001589/",
         "image": "https://jmagazine.myjcom.jp/uploads/260802_tukahara_01.jpg"
-      },
-      {
-        "rank": 6,
-        "category": "映画",
-        "title": "ウーレイ（呉磊）が映画で新境地！ドラマとは違う表情と繊細な演技力で存在感を発揮",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001427/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260618_wuLei%20_01.jpg"
       },
       {
         "rank": 7,
@@ -205,16 +205,16 @@
       {
         "rank": 9,
         "category": "映画",
-        "title": "隠れた傑作と名高い映画『山猫は眠らない』最新作に至る歴代シリーズの軌跡――父から息子へ継承される魂",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001197/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260320_yamaneko_01.jpg"
+        "title": "山口百恵×三浦友和　「ゴールデンコンビ」の人気を確立した初期の名作映画『潮騒』『絶唱』",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001396/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20260513momoetomokazu01.jpg"
       },
       {
         "rank": 10,
         "category": "映画",
-        "title": "山口百恵×三浦友和　「ゴールデンコンビ」の人気を確立した初期の名作映画『潮騒』『絶唱』",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001396/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20260513momoetomokazu01.jpg"
+        "title": "本木雅弘と小泉今日子が32年ぶりの共演シーンを回顧「互いの顔をのぞき合った瞬間に若かりし頃が思い浮かんできました」",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post000278/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250113uminochinmoku01.jpg"
       }
     ],
     "japanesedrama": [
@@ -242,16 +242,16 @@
       {
         "rank": 4,
         "category": "国内ドラマ",
-        "title": "「GTO」の鬼塚英吉の高校時代の物語。伝説のヤンキー二人組、鬼塚英吉と弾間龍二を今注目の俳優、寛一郎と金子大地が演じる！！「湘南純愛組！」【フルーツポンチ・村上健志】",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001519/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260711_yoshimoto_01.jpg"
+        "title": "「相棒」ファン投票によるベスト13選！水谷豊×寺脇康文らの名シーンがよみがえる",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001193/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20250225_aibo_01.jpg"
       },
       {
         "rank": 5,
         "category": "国内ドラマ",
-        "title": "「相棒」ファン投票によるベスト13選！水谷豊×寺脇康文らの名シーンがよみがえる",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001193/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20250225_aibo_01.jpg"
+        "title": "「GTO」の鬼塚英吉の高校時代の物語。伝説のヤンキー二人組、鬼塚英吉と弾間龍二を今注目の俳優、寛一郎と金子大地が演じる！！「湘南純愛組！」【フルーツポンチ・村上健志】",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001519/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260711_yoshimoto_01.jpg"
       },
       {
         "rank": 6,
@@ -277,16 +277,16 @@
       {
         "rank": 9,
         "category": "国内ドラマ",
-        "title": "令和に受け継ぎたい時代劇！北大路欣也の「銭形平次」は 人情味 あふれる江戸のヒーロー",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post000696/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250617_zenigata01.jpg"
+        "title": "「心配無用ノ介 天下御免」安田淳一監督、田村ツトムらが語る撮影秘話",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001597/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260801_shinpai_01aa.jpg"
       },
       {
         "rank": 10,
         "category": "国内ドラマ",
-        "title": "松本清張特集 ～唯一無二の清張ワールドを楽しもう！～",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001469/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260620_matumotoseicho_01.jpg"
+        "title": "令和に受け継ぎたい時代劇！北大路欣也の「銭形平次」は 人情味 あふれる江戸のヒーロー",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post000696/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250617_zenigata01.jpg"
       }
     ],
     "foreigndrama": [
@@ -307,23 +307,23 @@
       {
         "rank": 3,
         "category": "海外ドラマ",
-        "title": "英国ミステリー「ザ・タワー ～刑事サラ・コリンズの捜査～」日本初放送！",
-        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000348/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20250110_thetoweogp.jpg"
-      },
-      {
-        "rank": 4,
-        "category": "海外ドラマ",
         "title": "鋭い観察眼で事件を解決！マダムが活躍するミステリードラマ5選「IQ160清掃員モルガンは捜査コンサルタント」ほか",
         "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001176/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260225_madam_91.jpg"
       },
       {
-        "rank": 5,
+        "rank": 4,
         "category": "海外ドラマ",
         "title": "「ザ・エージェンシー」シーズン1の見どころがよく分かる！人物相関図付き【Paramount】",
         "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000660/",
         "image": "https://jmagazine.myjcom.jp/uploads/250221_agency01.jpeg"
+      },
+      {
+        "rank": 5,
+        "category": "海外ドラマ",
+        "title": "キャストにも注目のNetflix「ストレンジャー・シングス」最終章となるシーズン5に向けてあらすじまとめ！",
+        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000911/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20251120_stranger_ogp.jpg"
       },
       {
         "rank": 6,
@@ -335,30 +335,30 @@
       {
         "rank": 7,
         "category": "海外ドラマ",
-        "title": "キャストにも注目のNetflix「ストレンジャー・シングス」最終章となるシーズン5に向けてあらすじまとめ！",
-        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000911/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20251120_stranger_ogp.jpg"
+        "title": "英国ミステリー「ザ・タワー ～刑事サラ・コリンズの捜査～」日本初放送！",
+        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000348/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20250110_thetoweogp.jpg"
       },
       {
         "rank": 8,
+        "category": "海外ドラマ",
+        "title": "ドラマ「マトロック」シーズン2の見どころを徹底解説！友情と裏切りが交錯する心理戦に注目",
+        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001467/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260616_matlock_01.jpg"
+      },
+      {
+        "rank": 9,
         "category": "海外ドラマ",
         "title": "「ランドマン」シーズン1の見どころがよく分かる！人物相関図付き【Paramount】",
         "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000658/",
         "image": "https://jmagazine.myjcom.jp/uploads/250129_landman01.jpeg"
       },
       {
-        "rank": 9,
-        "category": "海外ドラマ",
-        "title": "ドラマ「エルズベス」シーズン3の見どころを徹底解説！春のニューヨークで描かれる新たな出会いと再会",
-        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001456/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260609_elsbeth_01.jpg"
-      },
-      {
         "rank": 10,
         "category": "海外ドラマ",
-        "title": "ドラマ「マトロック」シーズン2の見どころを徹底解説！友情と裏切りが交錯する心理戦に注目",
-        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001467/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260616_matlock_01.jpg"
+        "title": "ドラマ「NCIS：シドニー」シーズン3の見どころを徹底解説！ 明かされるブルーの過去と深まるチームの絆",
+        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001514/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260630_NCIS_01.jpg"
       }
     ],
     "asiadrama": [
@@ -379,58 +379,58 @@
       {
         "rank": 3,
         "category": "韓国・アジアドラマ",
+        "title": "バイルー（白鹿）が流す血の涙が胸をえぐる！「臨江仙」で見せた圧巻の一人二役",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001615/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260811_bailu_01.jpg"
+      },
+      {
+        "rank": 4,
+        "category": "韓国・アジアドラマ",
         "title": "「素晴らしき新世界」ホ・ナムジュンに沼落ち続出！演技の振り幅を堪能できる代表作3選",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001488/",
         "image": "https://jmagazine.myjcom.jp/uploads/260623_heonamjun01.jpg"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "category": "韓国・アジアドラマ",
         "title": "イ・ジェフン『交渉の技術』独占インタビュー　「役作りと白髪の意味」",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001167/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260200_jehoon_01.jpg"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "category": "韓国・アジアドラマ",
         "title": "「顔心記」で魅了したチョンレイ（丞磊）が「与晋長安」「錦月如歌」で見せる肉体美と目で語る演技力",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001522/",
         "image": "https://jmagazine.myjcom.jp/uploads/260718_chengryan_01.jpg"
       },
       {
-        "rank": 6,
-        "category": "韓国・アジアドラマ",
-        "title": "バイルー（白鹿）が流す血の涙が胸をえぐる！「臨江仙」で見せた圧巻の一人二役",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001615/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260811_bailu_01.jpg"
-      },
-      {
         "rank": 7,
-        "category": "韓国・アジアドラマ",
-        "title": "ホーユー（何与）が血のつながらない妹への切ない恋を熱演！中国ドラマ「それでも、恋をするには近すぎる」の魅力",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001578/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260801_heyu_01.jpg"
-      },
-      {
-        "rank": 8,
-        "category": "韓国・アジアドラマ",
-        "title": "ジャンリンホー（張凌赫）の進化した演技力に注目！二度目の結婚から始まるロマンスを描く中国ドラマ「度華年 The Princess Royal」",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001471/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260619_zhanglinghe_01.jpg"
-      },
-      {
-        "rank": 9,
         "category": "韓国・アジアドラマ",
         "title": "「長相思」で大ブレーク！タンジェンツー（檀健次）の原点「猟罪図鑑～見えない肖像画～」で光る目の演技",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001600/",
         "image": "https://jmagazine.myjcom.jp/uploads/260807_tanjianci_01.jpg"
       },
       {
+        "rank": 8,
+        "category": "韓国・アジアドラマ",
+        "title": "ホーユー（何与）が血のつながらない妹への切ない恋を熱演！中国ドラマ「それでも、恋をするには近すぎる」の魅力",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001578/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260801_heyu_01.jpg"
+      },
+      {
+        "rank": 9,
+        "category": "韓国・アジアドラマ",
+        "title": "ジャンリンホー（張凌赫）の進化した演技力に注目！二度目の結婚から始まるロマンスを描く中国ドラマ「度華年 The Princess Royal」",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001471/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260619_zhanglinghe_01.jpg"
+      },
+      {
         "rank": 10,
         "category": "韓国・アジアドラマ",
-        "title": "ジンティエン（景甜）、チャオリーイン（趙麗穎）らが自立した女性に！芯の強いヒロインが輝く中国時代劇5選",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001575/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260729_chinadrama_01.jpg"
+        "title": "韓国ドラマのサスペンスがすごい！脚本家キム・ウニが問う社会の闇――「シグナル」ほか傑作ドラマ3選",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001580/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260811_kimeunhee01.jpg"
       }
     ],
     "music": [
@@ -465,23 +465,23 @@
       {
         "rank": 5,
         "category": "音楽・K-POP",
+        "title": "SWEET STEADYメンバーインタビュー！満を持してのバズりに「このチャンスを着実にモノにしていきたい」",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001440/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260603_sweetsteady_01.jpg"
+      },
+      {
+        "rank": 6,
+        "category": "音楽・K-POP",
         "title": "Stray Kids、IVE、LE SSERAFIMら豪華共演！KBSの大型音楽祭で2024年のK-POPを総ざらい",
         "url": "https://jmagazine.myjcom.jp/category/music/post000625/",
         "image": "https://jmagazine.myjcom.jp/uploads/250501_kbs01.jpg"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "category": "音楽・K-POP",
         "title": "超特急が見据えるドームの先の景色――「ガチ夢中！」で届ける等身大の応援歌【カイ・ユーキ・シューヤ・マサヒロインタビュー】",
         "url": "https://jmagazine.myjcom.jp/category/music/post001546/",
         "image": "https://jmagazine.myjcom.jp/uploads/260715_bullettrain01.jpg"
-      },
-      {
-        "rank": 7,
-        "category": "音楽・K-POP",
-        "title": "SWEET STEADYメンバーインタビュー！満を持してのバズりに「このチャンスを着実にモノにしていきたい」",
-        "url": "https://jmagazine.myjcom.jp/category/music/post001440/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260603_sweetsteady_01.jpg"
       },
       {
         "rank": 8,
@@ -500,9 +500,9 @@
       {
         "rank": 10,
         "category": "音楽・K-POP",
-        "title": "TOMOOが国内初の野外MTV Unpluggedを終えた心境を語る「あの時間がもっとずっと続いてほしかった」",
-        "url": "https://jmagazine.myjcom.jp/category/music/post000184/",
-        "image": "https://jmagazine.myjcom.jp/uploads/241110tomoo01.jpg"
+        "title": "BE:FIRSTメンバーが見せた覚悟と成長...映画『BE:the ONE』プロデューサーが明かす",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001206/",
+        "image": "https://jmagazine.myjcom.jp/uploads/2602_betheone01.jpg"
       }
     ],
     "entertainment": [
@@ -523,9 +523,9 @@
       {
         "rank": 3,
         "category": "エンタメ",
-        "title": "真風涼帆が明かす宝塚歌劇の固く強い絆「卒業してもなお、先輩方のお言葉に心が救われる瞬間がある」",
-        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001535/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260719_makaze_01.jpg"
+        "title": "はいだしょうこが宝塚歌劇団時代を回顧「はいだしょうこという人間の基盤を作ってくれた」",
+        "url": "https://jmagazine.myjcom.jp/category/entertainment/post000780/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250820haidasyoukoa01.jpg"
       },
       {
         "rank": 4,
@@ -537,44 +537,44 @@
       {
         "rank": 5,
         "category": "エンタメ",
+        "title": "真風涼帆が明かす宝塚歌劇の固く強い絆「卒業してもなお、先輩方のお言葉に心が救われる瞬間がある」",
+        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001535/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260719_makaze_01.jpg"
+      },
+      {
+        "rank": 6,
+        "category": "エンタメ",
         "title": "『はやく起きた朝は...』出演者3人が語る30年の魅力　松居直美・磯野貴理子・森尾由美インタビュー",
         "url": "https://jmagazine.myjcom.jp/category/entertainment/post001145/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260320_hayaku_01.jpg"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "category": "エンタメ",
         "title": "「VIVANT」とは真逆！堺雅人のコメディーセンスが光る隠れ名作ドラマ「やさぐれぱんだ」",
         "url": "https://jmagazine.myjcom.jp/category/entertainment/post001556/",
         "image": "https://jmagazine.myjcom.jp/uploads/260717_yasagurepanda01.jpg"
       },
       {
-        "rank": 7,
-        "category": "エンタメ",
-        "title": "はいだしょうこが宝塚歌劇団時代を回顧「はいだしょうこという人間の基盤を作ってくれた」",
-        "url": "https://jmagazine.myjcom.jp/category/entertainment/post000780/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250820haidasyoukoa01.jpg"
-      },
-      {
         "rank": 8,
-        "category": "エンタメ",
-        "title": "BTSが7人で過ごす友情旅行に密着！「RUN BTS 2.0」TV初独占放送",
-        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001455/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260605_BTS_01.jpg"
-      },
-      {
-        "rank": 9,
         "category": "エンタメ",
         "title": "月城かなとが宝塚ファンとなったきっかけの先輩を告白",
         "url": "https://jmagazine.myjcom.jp/category/entertainment/post001237/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260314_tukisiro_01.jpg"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "category": "エンタメ",
         "title": "「探偵！ナイトスクープ」で出会った、忘れられないミステリー5選【戸部田誠】",
         "url": "https://jmagazine.myjcom.jp/category/entertainment/post000739/",
         "image": "https://jmagazine.myjcom.jp/uploads/250712knightscoop01.jpg"
+      },
+      {
+        "rank": 10,
+        "category": "エンタメ",
+        "title": "BTSが7人で過ごす友情旅行に密着！「RUN BTS 2.0」TV初独占放送",
+        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001455/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260605_BTS_01.jpg"
       }
     ],
     "documentary": [
@@ -588,16 +588,16 @@
       {
         "rank": 2,
         "category": "ドキュメンタリー",
-        "title": "豊島将之九段＆錦鯉が子どもたちの悩みに本音で答える――将棋で学ぶ「緊張」と「ミス」を味方につける方法",
-        "url": "https://jmagazine.myjcom.jp/category/documentary/post001541/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260710_syogi99.jpg"
+        "title": "宮田俊哉(Kis-My-Ft2)インタビュー！ナレーションへの情熱と「自分にしかできない表現」の探求",
+        "url": "https://jmagazine.myjcom.jp/category/documentary/post001490/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260720_miyatatoshiya01.jpg"
       },
       {
         "rank": 3,
         "category": "ドキュメンタリー",
-        "title": "宮田俊哉(Kis-My-Ft2)インタビュー！ナレーションへの情熱と「自分にしかできない表現」の探求",
-        "url": "https://jmagazine.myjcom.jp/category/documentary/post001490/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260720_miyatatoshiya01.jpg"
+        "title": "豊島将之九段＆錦鯉が子どもたちの悩みに本音で答える――将棋で学ぶ「緊張」と「ミス」を味方につける方法",
+        "url": "https://jmagazine.myjcom.jp/category/documentary/post001541/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260710_syogi99.jpg"
       },
       {
         "rank": 4,
@@ -688,16 +688,16 @@
       {
         "rank": 6,
         "category": "特集",
-        "title": "正統派からコメディーまで！橋本環奈が見せる演技の振り幅",
-        "url": "https://jmagazine.myjcom.jp/category/feature/post000066/",
-        "image": "https://jmagazine.myjcom.jp/uploads/240901_hashimotokanna01.jpeg"
+        "title": "「サバ缶、宇宙へ行く」で注目！北村匠海おすすめ出演映画＆ドラマ4選『君の膵臓をたべたい』ほか",
+        "url": "https://jmagazine.myjcom.jp/category/feature/post001458/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260608_kitamura_01.jpg"
       },
       {
         "rank": 7,
         "category": "特集",
-        "title": "「サバ缶、宇宙へ行く」で注目！北村匠海おすすめ出演映画＆ドラマ4選『君の膵臓をたべたい』ほか",
-        "url": "https://jmagazine.myjcom.jp/category/feature/post001458/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260608_kitamura_01.jpg"
+        "title": "正統派からコメディーまで！橋本環奈が見せる演技の振り幅",
+        "url": "https://jmagazine.myjcom.jp/category/feature/post000066/",
+        "image": "https://jmagazine.myjcom.jp/uploads/240901_hashimotokanna01.jpeg"
       },
       {
         "rank": 8,
@@ -781,16 +781,16 @@
       {
         "rank": 9,
         "category": "スポーツ",
-        "title": "一世一代の奇策で曙を倒した舞の海。「すべては予想していた通り」【二宮清純】",
-        "url": "https://jmagazine.myjcom.jp/category/sports/post001576/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20260730_ogp.jpg"
+        "title": "原乙羽が語るインターハイへの覚悟 大阪薫英女学院のエース（女子バスケ）",
+        "url": "https://jmagazine.myjcom.jp/category/sports/post001433/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260620_gakusupo_01.JPG"
       },
       {
         "rank": 10,
         "category": "スポーツ",
-        "title": "原乙羽が語るインターハイへの覚悟 大阪薫英女学院のエース（女子バスケ）",
-        "url": "https://jmagazine.myjcom.jp/category/sports/post001433/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260620_gakusupo_01.JPG"
+        "title": "読売ジャイアンツ・岸田行倫　新キャプテン論 リーダー像と覚悟を語る",
+        "url": "https://jmagazine.myjcom.jp/category/sports/post001505/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260720_baseball_01.jpg"
       }
     ]
   }
