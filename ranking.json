@@ -1,13 +1,13 @@
 {
-  "period": "2026/11/17 〜 2026/11/24",
+  "period": "2026/11/18 〜 2026/11/25",
   "data": {
     "total": [
       {
         "rank": 1,
-        "category": "音楽・K-POP",
-        "title": "NCT 127が10周年で語る現在地「イリチルらしさとは『続けること』」",
-        "url": "https://jmagazine.myjcom.jp/category/music/post001925/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261121_nct127_01.jpg"
+        "category": "韓国・アジアドラマ",
+        "title": "ワンホーディー（王鶴棣）が色気を封印！18年の時を隔てた刑事役を演じ分ける「黒夜告白（こくやこくはく）-18年の迷宮-」",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001929/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261122_kokuyakokuhaku01.jpg"
       },
       {
         "rank": 2,
@@ -19,51 +19,51 @@
       {
         "rank": 3,
         "category": "韓国・アジアドラマ",
-        "title": "チョンレイ（丞磊）が暴君なのにかわいすぎる！転生宮廷ドラマ「成何体統＜せいかたいとう＞」で悪役妃と共闘して運命を変える",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001909/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261116_chengryan01.jpg"
-      },
-      {
-        "rank": 4,
-        "category": "韓国・アジアドラマ",
-        "title": "韓国トップ女優のベストドレスは？キム・ゴウン、シン・ミナら、30代の成熟した美貌にも注目が集まった「第5回青龍シリーズアワード」の名場面",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001915/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261114_bluedragon01.webp"
-      },
-      {
-        "rank": 5,
-        "category": "韓国・アジアドラマ",
         "title": "日本のファンを熱狂させるチョン・ヘイン人気！「国民の年下男子」から成熟を遂げた現在地",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001935/",
         "image": "https://jmagazine.myjcom.jp/uploads/261121_haeiness01.webp"
       },
       {
-        "rank": 6,
-        "category": "韓国・アジアドラマ",
-        "title": "ワンホーディー（王鶴棣）が色気を封印！18年の時を隔てた刑事役を演じ分ける「黒夜告白（こくやこくはく）-18年の迷宮-」",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001929/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261122_kokuyakokuhaku01.jpg"
+        "rank": 4,
+        "category": "音楽・K-POP",
+        "title": "NCT 127が10周年で語る現在地「イリチルらしさとは『続けること』」",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001925/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261121_nct127_01.jpg"
       },
       {
-        "rank": 7,
+        "rank": 5,
         "category": "音楽・K-POP",
         "title": "SHOW-WAが初の日本武道館公演を振り返る「Rubyの皆さんが連れてきてくれた夢の舞台」",
         "url": "https://jmagazine.myjcom.jp/category/music/post001903/",
         "image": "https://jmagazine.myjcom.jp/uploads/261122_SHOW-WA01.jpg"
       },
       {
-        "rank": 8,
-        "category": "アニメ",
-        "title": "『本好きの下剋上 領主の養女』が描く成長と切なさ――本を愛するマインが夢と引き換えに手放したもの【松井玲奈】",
-        "url": "https://jmagazine.myjcom.jp/category/anime/post001907/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261113_matsui01.jpg"
-      },
-      {
-        "rank": 9,
+        "rank": 6,
         "category": "国内ドラマ",
         "title": "ドラマ「あにいもうと」榮倉奈々、赤楚衛二が語る、恋愛とサスペンスが交錯する物語",
         "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001863/",
         "image": "https://jmagazine.myjcom.jp/uploads/261120_aniimouto01.jpg"
+      },
+      {
+        "rank": 7,
+        "category": "韓国・アジアドラマ",
+        "title": "タンソンユン（譚松韻）が男性社会に挑む女性パイロットに！負けん気の強いヒロインが夢を追う「フライト・トゥ・ユー」",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001930/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261123_flighttoyou01.jpg"
+      },
+      {
+        "rank": 8,
+        "category": "韓国・アジアドラマ",
+        "title": "チョンレイ（丞磊）が暴君なのにかわいすぎる！転生宮廷ドラマ「成何体統＜せいかたいとう＞」で悪役妃と共闘して運命を変える",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001909/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261116_chengryan01.jpg"
+      },
+      {
+        "rank": 9,
+        "category": "韓国・アジアドラマ",
+        "title": "韓国トップ女優のベストドレスは？キム・ゴウン、シン・ミナら、30代の成熟した美貌にも注目が集まった「第5回青龍シリーズアワード」の名場面",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001915/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261114_bluedragon01.webp"
       },
       {
         "rank": 10,
@@ -105,37 +105,37 @@
       {
         "rank": 5,
         "category": "アニメ",
-        "title": "アニメ「アオのハコ Season2」上田麗奈インタビュー！千夏の変化と一番好きなキャラクターを語る",
-        "url": "https://jmagazine.myjcom.jp/category/anime/post001748/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260928_ueda_01.jpg"
-      },
-      {
-        "rank": 6,
-        "category": "アニメ",
         "title": "圧倒的な能力でスカッと爽快！主人公が最強の異世界アニメおすすめ5選「ヘルモード」ほか",
         "url": "https://jmagazine.myjcom.jp/category/anime/post001381/",
         "image": "https://jmagazine.myjcom.jp/uploads/260502_saikyo_01.jpg"
       },
       {
+        "rank": 6,
+        "category": "アニメ",
+        "title": "アニメ「アオのハコ Season2」上田麗奈インタビュー！千夏の変化と一番好きなキャラクターを語る",
+        "url": "https://jmagazine.myjcom.jp/category/anime/post001748/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260928_ueda_01.jpg"
+      },
+      {
         "rank": 7,
+        "category": "アニメ",
+        "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
+        "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg"
+      },
+      {
+        "rank": 8,
         "category": "アニメ",
         "title": "「トムとジェリー」の意外と知らない豆知識5選！名前の由来から最終回の都市伝説まで",
         "url": "https://jmagazine.myjcom.jp/category/anime/post001406/",
         "image": "https://jmagazine.myjcom.jp/uploads/260522_%20tomandjerry_01.jpg"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "category": "アニメ",
         "title": "声優・富田美憂さんロングインタビュー#3「『いま』を大切にしながら手の届く経験を重ねていきたい」",
         "url": "https://jmagazine.myjcom.jp/category/anime/post001876/",
         "image": "https://jmagazine.myjcom.jp/uploads/261106_tomita01.jpg"
-      },
-      {
-        "rank": 9,
-        "category": "アニメ",
-        "title": "「薬屋のひとりごと」壬氏役・大塚剛央が語る作品への思い「終わってしまったら抜け殻になりそう(笑)」",
-        "url": "https://jmagazine.myjcom.jp/category/anime/post001759/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261020_ootsuka_01.jpg"
       },
       {
         "rank": 10,
@@ -156,16 +156,16 @@
       {
         "rank": 2,
         "category": "映画",
-        "title": "綾瀬はるか『ICHI』＆香取慎吾『座頭市 THE LAST』　勝新太郎版とは異なる魅力をひも解く",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001873/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261111_zatoichi01.jpg"
+        "title": "『ゴジラ-1.0』のマイナスに込められた意味――時代設定とテーマから読み解く【SYO】",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001382/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260503_gozira_01.jpg"
       },
       {
         "rank": 3,
         "category": "映画",
-        "title": "『ゴジラ-1.0』のマイナスに込められた意味――時代設定とテーマから読み解く【SYO】",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001382/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260503_gozira_01.jpg"
+        "title": "ク・ギョファン×キム・ドヨン監督が語る韓国映画『サヨナラの引力』が描く10年越しの再会と奇跡のラブストーリー",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001770/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261103_sayonara01.jpg"
       },
       {
         "rank": 4,
@@ -177,37 +177,37 @@
       {
         "rank": 5,
         "category": "映画",
-        "title": "ク・ギョファン×キム・ドヨン監督が語る韓国映画『サヨナラの引力』が描く10年越しの再会と奇跡のラブストーリー",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001770/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261103_sayonara01.jpg"
-      },
-      {
-        "rank": 6,
-        "category": "映画",
-        "title": "最新作『ゴジラ-0.0』公開前に振り返る！時代を映すゴジラ映画おすすめ5選",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001868/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261030_godzilla01.jpg"
-      },
-      {
-        "rank": 7,
-        "category": "映画",
         "title": "ウーレイ（呉磊）が映画で新境地！ドラマとは違う表情と繊細な演技力で存在感を発揮",
         "url": "https://jmagazine.myjcom.jp/category/movie/post001427/",
         "image": "https://jmagazine.myjcom.jp/uploads/260618_wuLei%20_01.jpg"
       },
       {
-        "rank": 8,
+        "rank": 6,
         "category": "映画",
         "title": "藤森慎吾が専門家と映画の魅力を深掘り！新感覚番組「週刊 藤森慎吾の『この映画、こう観ルンです』」独占配信",
         "url": "https://jmagazine.myjcom.jp/category/movie/post001936/",
         "image": "https://jmagazine.myjcom.jp/uploads/261119_shukanfujimori01.jpg"
       },
       {
+        "rank": 7,
+        "category": "映画",
+        "title": "綾瀬はるか『ICHI』＆香取慎吾『座頭市 THE LAST』　勝新太郎版とは異なる魅力をひも解く",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001873/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261111_zatoichi01.jpg"
+      },
+      {
+        "rank": 8,
+        "category": "映画",
+        "title": "最新作『ゴジラ-0.0』公開前に振り返る！時代を映すゴジラ映画おすすめ5選",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001868/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261030_godzilla01.jpg"
+      },
+      {
         "rank": 9,
         "category": "映画",
-        "title": "ウィル・スミスの代表作『メン・イン・ブラック』はまるで腕のいい寿司屋のおまかせコース【小堺一機】",
-        "url": "https://jmagazine.myjcom.jp/category/movie/post001910/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261114_kosakai01.jpg"
+        "title": "田中美央「ゴジラは自分の人生を変えてくれた」山崎貴監督映画『ゴジラ-0.0』でキングギドラに挑む堀田艦長の覚悟",
+        "url": "https://jmagazine.myjcom.jp/category/movie/post001806/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261022_tanakamiou01.jpg"
       },
       {
         "rank": 10,
@@ -235,16 +235,16 @@
       {
         "rank": 3,
         "category": "国内ドラマ",
-        "title": "令和の鬼塚の最大の敵はコンプラ？反町隆史の最強傑作「GTO（2026）」【小虎・りょう】",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001900/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261116_yoshimoto01.jpg"
+        "title": "「あの一行」の衝撃！綾辻行人『十角館の殺人』が奥智哉、青木崇高らで実写化を果たした理由",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001899/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261124_jukkakukan01.jpg"
       },
       {
         "rank": 4,
         "category": "国内ドラマ",
-        "title": "「相棒」ファン投票によるベスト13選！水谷豊×寺脇康文らの名シーンがよみがえる",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001193/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20250225_aibo_01.jpg"
+        "title": "令和の鬼塚の最大の敵はコンプラ？反町隆史の最強傑作「GTO（2026）」【小虎・りょう】",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001900/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261116_yoshimoto01.jpg"
       },
       {
         "rank": 5,
@@ -256,23 +256,23 @@
       {
         "rank": 6,
         "category": "国内ドラマ",
+        "title": "「相棒」ファン投票によるベスト13選！水谷豊×寺脇康文らの名シーンがよみがえる",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001193/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20250225_aibo_01.jpg"
+      },
+      {
+        "rank": 7,
+        "category": "国内ドラマ",
         "title": "内藤剛志が令和に演じる上質な旅情サスペンス「旅人検視官 道場修作」はなぜ人々を魅了するのか",
         "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001856/",
         "image": "https://jmagazine.myjcom.jp/uploads/261102_naito01.jpg"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "category": "国内ドラマ",
         "title": "尾美としのりが語る「鬼平犯科帳」 自分の幹となった作品への思いと吉右衛門さんから学んだこと",
         "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001654/",
         "image": "https://jmagazine.myjcom.jp/uploads/260920_omi_01.jpg"
-      },
-      {
-        "rank": 8,
-        "category": "国内ドラマ",
-        "title": "椎名桔平ら名優が演じて幾度も映像化される松本清張の名作「寒流」はなぜ人の心に刺さるのか",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001891/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261106_kanryu01.jpg"
       },
       {
         "rank": 9,
@@ -284,9 +284,9 @@
       {
         "rank": 10,
         "category": "国内ドラマ",
-        "title": "吉高由里子の魅力が全開「正義のセ」【LLR・福田恵悟】",
-        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001889/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261109_yoshimoto01.jpg"
+        "title": "椎名桔平ら名優が演じて幾度も映像化される松本清張の名作「寒流」はなぜ人の心に刺さるのか",
+        "url": "https://jmagazine.myjcom.jp/category/japanesedrama/post001891/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261106_kanryu01.jpg"
       }
     ],
     "foreigndrama": [
@@ -342,81 +342,81 @@
       {
         "rank": 8,
         "category": "海外ドラマ",
-        "title": "Netflixシリーズ「ウェンズデー」怒涛の展開から目が離せない！ティム・バートンならではの美学が健在",
-        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000792/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250822_wednesday01.jpg"
-      },
-      {
-        "rank": 9,
-        "category": "海外ドラマ",
         "title": "『スター・トレック』60周年記念特集｜インタビューや厳選記事でシリーズの魅力を深掘り！",
         "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001593/",
         "image": "https://jmagazine.myjcom.jp/uploads/260820_startrek40.jpg"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "category": "海外ドラマ",
         "title": "テイラー・シェリダン新作「マディソン」の見どころを徹底解説！キャスト紹介＆人物相関図付き【Paramount】",
         "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post001811/",
         "image": "https://jmagazine.myjcom.jp/uploads/261012_madison71.jpg"
+      },
+      {
+        "rank": 10,
+        "category": "海外ドラマ",
+        "title": "Netflixシリーズ「ウェンズデー」怒涛の展開から目が離せない！ティム・バートンならではの美学が健在",
+        "url": "https://jmagazine.myjcom.jp/category/foreigndrama/post000792/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250822_wednesday01.jpg"
       }
     ],
     "asiadrama": [
       {
         "rank": 1,
         "category": "韓国・アジアドラマ",
-        "title": "チョンレイ（丞磊）が暴君なのにかわいすぎる！転生宮廷ドラマ「成何体統＜せいかたいとう＞」で悪役妃と共闘して運命を変える",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001909/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261116_chengryan01.jpg"
+        "title": "ワンホーディー（王鶴棣）が色気を封印！18年の時を隔てた刑事役を演じ分ける「黒夜告白（こくやこくはく）-18年の迷宮-」",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001929/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261122_kokuyakokuhaku01.jpg"
       },
       {
         "rank": 2,
-        "category": "韓国・アジアドラマ",
-        "title": "韓国トップ女優のベストドレスは？キム・ゴウン、シン・ミナら、30代の成熟した美貌にも注目が集まった「第5回青龍シリーズアワード」の名場面",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001915/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261114_bluedragon01.webp"
-      },
-      {
-        "rank": 3,
         "category": "韓国・アジアドラマ",
         "title": "日本のファンを熱狂させるチョン・ヘイン人気！「国民の年下男子」から成熟を遂げた現在地",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001935/",
         "image": "https://jmagazine.myjcom.jp/uploads/261121_haeiness01.webp"
       },
       {
+        "rank": 3,
+        "category": "韓国・アジアドラマ",
+        "title": "タンソンユン（譚松韻）が男性社会に挑む女性パイロットに！負けん気の強いヒロインが夢を追う「フライト・トゥ・ユー」",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001930/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261123_flighttoyou01.jpg"
+      },
+      {
         "rank": 4,
         "category": "韓国・アジアドラマ",
-        "title": "ワンホーディー（王鶴棣）が色気を封印！18年の時を隔てた刑事役を演じ分ける「黒夜告白（こくやこくはく）-18年の迷宮-」",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001929/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261122_kokuyakokuhaku01.jpg"
+        "title": "チョンレイ（丞磊）が暴君なのにかわいすぎる！転生宮廷ドラマ「成何体統＜せいかたいとう＞」で悪役妃と共闘して運命を変える",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001909/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261116_chengryan01.jpg"
       },
       {
         "rank": 5,
+        "category": "韓国・アジアドラマ",
+        "title": "韓国トップ女優のベストドレスは？キム・ゴウン、シン・ミナら、30代の成熟した美貌にも注目が集まった「第5回青龍シリーズアワード」の名場面",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001915/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261114_bluedragon01.webp"
+      },
+      {
+        "rank": 6,
         "category": "韓国・アジアドラマ",
         "title": "Netflixでも話題のジャンリンホー（張凌赫）主演！記憶を失ってもまた恋に落ちる――ジンティエン（景甜）と運命の愛を紡ぐドラマ「四海重明」",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001409/",
         "image": "https://jmagazine.myjcom.jp/uploads/260610_sikai_01.jpg"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "category": "韓国・アジアドラマ",
         "title": "「逐玉」で大注目のジャンリンホー（張凌赫）入門作！「素敵な恋の咲かせかた」で気品あふれる漢方医を熱演",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001652/",
         "image": "https://jmagazine.myjcom.jp/uploads/260902_sutekinakoi_01.jpg"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "category": "韓国・アジアドラマ",
         "title": "シューカイ（許凱）がヤンミー（楊冪）と年の差婚！ワケあり結婚を描く中国＆韓国ドラマ3選",
         "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001147/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260131_wakeari_11.jpg"
-      },
-      {
-        "rank": 8,
-        "category": "韓国・アジアドラマ",
-        "title": "「クルミ」から10年！パク・ボゴム、キム・ユジョン、クァク・ドンヨンらの変わらぬ絆が窺える、「雲が再び描いた月明り」の名場面",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001902/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261112_kurumi01.webp"
       },
       {
         "rank": 9,
@@ -428,9 +428,9 @@
       {
         "rank": 10,
         "category": "韓国・アジアドラマ",
-        "title": "ジャンリンホー（張凌赫）の進化した演技力に注目！二度目の結婚から始まるロマンスを描く中国ドラマ「度華年 The Princess Royal」",
-        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001471/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260619_zhanglinghe_01.jpg"
+        "title": "「クルミ」から10年！パク・ボゴム、キム・ユジョン、クァク・ドンヨンらの変わらぬ絆が窺える、「雲が再び描いた月明り」の名場面",
+        "url": "https://jmagazine.myjcom.jp/category/asiadrama/post001902/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261112_kurumi01.webp"
       }
     ],
     "music": [
@@ -451,58 +451,58 @@
       {
         "rank": 3,
         "category": "音楽・K-POP",
+        "title": "スカパラ「TOKYO SKA JAM」が再始動！谷中敦＆茂木欣一が魅力を語る「気軽にコラボができるのが良いところ」",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001943/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261124_skapara01.jpg"
+      },
+      {
+        "rank": 4,
+        "category": "音楽・K-POP",
         "title": "元BIGBANGのT.O.Pのカムバックに集まる熱視線！「10年ぶりの再会」に沸いた日本ファンミーティング",
         "url": "https://jmagazine.myjcom.jp/category/music/post001668/",
         "image": "https://jmagazine.myjcom.jp/uploads/2608TOP01.jpg"
       },
       {
-        "rank": 4,
+        "rank": 5,
         "category": "音楽・K-POP",
         "title": "アーティスト・さのみきひとインタビュー！「47都道府県ツアーは自作の車で回った」",
         "url": "https://jmagazine.myjcom.jp/category/music/post001323/",
         "image": "https://jmagazine.myjcom.jp/uploads/260501_sanomikihito01.jpg"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "category": "音楽・K-POP",
         "title": "林部智史がデビュー10周年を迎え見せた素顔と、アルバム『Myself』レコーディング秘話「バンドメンバーと『せーの！』で一発録り」",
         "url": "https://jmagazine.myjcom.jp/category/music/post001733/",
         "image": "https://jmagazine.myjcom.jp/uploads/260922_hayashibesatoshi01.jpg"
       },
       {
-        "rank": 6,
+        "rank": 7,
         "category": "音楽・K-POP",
         "title": "新浜レオンが語る、観客ほぼゼロから歩んだ7年間の軌跡と30歳を迎えて新たな決意！",
         "url": "https://jmagazine.myjcom.jp/category/music/post001789/",
         "image": "https://jmagazine.myjcom.jp/uploads/261003_leon01.jpg"
       },
       {
-        "rank": 7,
+        "rank": 8,
         "category": "音楽・K-POP",
-        "title": "柏原芳恵、デビュー45年の軌跡――「春なのに」「ハロー・グッバイ」など、名曲とともに振り返る",
-        "url": "https://jmagazine.myjcom.jp/category/music/post000571/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250401_kashiwabara01.jpg"
+        "title": "超特急が見据えるドームの先の景色――「ガチ夢中！」で届ける等身大の応援歌【カイ・ユーキ・シューヤ・マサヒロインタビュー】",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001546/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260715_bullettrain01.jpg"
       },
       {
-        "rank": 8,
+        "rank": 9,
         "category": "音楽・K-POP",
         "title": "「今、聴いてほしいニューカマーアーティスト」 SPACE SHOWER NEW FORCE/名誉伝説×OddRe:が語るお互いの音楽観",
         "url": "https://jmagazine.myjcom.jp/category/music/post001901/",
         "image": "https://jmagazine.myjcom.jp/uploads/261110_newforce01a.jpg"
       },
       {
-        "rank": 9,
-        "category": "音楽・K-POP",
-        "title": "日本でもブレーク中！ソン・シギョンが韓国で「鼓膜彼氏」と呼ばれる所以を、来日公演＆冠番組で体感",
-        "url": "https://jmagazine.myjcom.jp/category/music/post001894/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261107_sungsikyung01.webp"
-      },
-      {
         "rank": 10,
         "category": "音楽・K-POP",
-        "title": "超特急が見据えるドームの先の景色――「ガチ夢中！」で届ける等身大の応援歌【カイ・ユーキ・シューヤ・マサヒロインタビュー】",
-        "url": "https://jmagazine.myjcom.jp/category/music/post001546/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260715_bullettrain01.jpg"
+        "title": "乃木坂46・井上和がボカロへの愛を語る「自分にとって救いだった」",
+        "url": "https://jmagazine.myjcom.jp/category/music/post001260/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260408_inoue_01.jpg"
       }
     ],
     "entertainment": [
@@ -565,16 +565,16 @@
       {
         "rank": 9,
         "category": "エンタメ",
-        "title": "月城かなとが宝塚ファンとなったきっかけの先輩を告白",
-        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001237/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20260314_tukisiro_01.jpg"
+        "title": "STARGLOW・TAIKIからレコ大新人賞、プロレス王者まで――『博士ちゃん』が育む規格外のスターたち 「サンドウィッチマン＆芦田愛菜の博士ちゃん」【戸部田誠】",
+        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001186/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20260223_tobeta_01.jpg"
       },
       {
         "rank": 10,
         "category": "エンタメ",
-        "title": "STARGLOW・TAIKIからレコ大新人賞、プロレス王者まで――『博士ちゃん』が育む規格外のスターたち 「サンドウィッチマン＆芦田愛菜の博士ちゃん」【戸部田誠】",
-        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001186/",
-        "image": "https://jmagazine.myjcom.jp/uploads/20260223_tobeta_01.jpg"
+        "title": "月城かなとが宝塚ファンとなったきっかけの先輩を告白",
+        "url": "https://jmagazine.myjcom.jp/category/entertainment/post001237/",
+        "image": "https://jmagazine.myjcom.jp/uploads/20260314_tukisiro_01.jpg"
       }
     ],
     "documentary": [
@@ -616,37 +616,37 @@
       {
         "rank": 6,
         "category": "ドキュメンタリー",
-        "title": "生き物好きココリコ田中直樹が熱弁！カンニング竹山にも通じる「ラーテルマインド」とは",
-        "url": "https://jmagazine.myjcom.jp/category/documentary/post001445/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260620_tanaka_01.jpg"
-      },
-      {
-        "rank": 7,
-        "category": "ドキュメンタリー",
-        "title": "三宅健「『アイドル』という未定義を生きる」持続する自己とその哲学",
-        "url": "https://jmagazine.myjcom.jp/category/documentary/post001334/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260414_miyakeken01.jpg"
-      },
-      {
-        "rank": 8,
-        "category": "ドキュメンタリー",
         "title": "宮田俊哉(Kis-My-Ft2)インタビュー！ナレーションへの情熱と「自分にしかできない表現」の探求",
         "url": "https://jmagazine.myjcom.jp/category/documentary/post001490/",
         "image": "https://jmagazine.myjcom.jp/uploads/260720_miyatatoshiya01.jpg"
       },
       {
-        "rank": 9,
+        "rank": 7,
+        "category": "ドキュメンタリー",
+        "title": "生き物好きココリコ田中直樹が熱弁！カンニング竹山にも通じる「ラーテルマインド」とは",
+        "url": "https://jmagazine.myjcom.jp/category/documentary/post001445/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260620_tanaka_01.jpg"
+      },
+      {
+        "rank": 8,
         "category": "ドキュメンタリー",
         "title": "芝野虎丸×豊島将之インタビュー「竜星vs銀河」の舞台裏と囲碁・将棋のAI活用法",
         "url": "https://jmagazine.myjcom.jp/category/documentary/post001238/",
         "image": "https://jmagazine.myjcom.jp/uploads/20260316_shogi_01.jpg"
       },
       {
-        "rank": 10,
+        "rank": 9,
         "category": "ドキュメンタリー",
         "title": "ALSOK杯第75期王将戦インタビュー｜藤井聡太王将・永瀬拓矢九段が語る戦略と意気込み",
         "url": "https://jmagazine.myjcom.jp/category/documentary/post001044/",
         "image": "https://jmagazine.myjcom.jp/uploads/260120_fujii_01.jpg"
+      },
+      {
+        "rank": 10,
+        "category": "ドキュメンタリー",
+        "title": "三宅健「『アイドル』という未定義を生きる」持続する自己とその哲学",
+        "url": "https://jmagazine.myjcom.jp/category/documentary/post001334/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260414_miyakeken01.jpg"
       }
     ],
     "feature": [
@@ -674,23 +674,23 @@
       {
         "rank": 4,
         "category": "特集",
+        "title": "映画『ブルーロック』で話題の高橋文哉おすすめ出演作4選！「君の花になる」ほかドラマや映画で見せる存在感",
+        "url": "https://jmagazine.myjcom.jp/category/feature/post001598/",
+        "image": "https://jmagazine.myjcom.jp/uploads/260804_takahashi_01.jpg"
+      },
+      {
+        "rank": 5,
+        "category": "特集",
         "title": "松坂桃李の狂気から複雑な心情までが光る出演作5選！「父と僕の終わらない歌」「御上先生」ほか",
         "url": "https://jmagazine.myjcom.jp/category/feature/post001826/",
         "image": "https://jmagazine.myjcom.jp/uploads/261015_matsuzaka01.jpg"
       },
       {
-        "rank": 5,
+        "rank": 6,
         "category": "特集",
         "title": "綾瀬はるかの強さと美しさが光る出演作5選！「天国と地獄」「JIN -仁-」「白夜行」ほか",
         "url": "https://jmagazine.myjcom.jp/category/feature/post001745/",
         "image": "https://jmagazine.myjcom.jp/uploads/260924_ayase01.jpg"
-      },
-      {
-        "rank": 6,
-        "category": "特集",
-        "title": "映画『ブルーロック』で話題の高橋文哉おすすめ出演作4選！「君の花になる」ほかドラマや映画で見せる存在感",
-        "url": "https://jmagazine.myjcom.jp/category/feature/post001598/",
-        "image": "https://jmagazine.myjcom.jp/uploads/260804_takahashi_01.jpg"
       },
       {
         "rank": 7,
@@ -702,23 +702,23 @@
       {
         "rank": 8,
         "category": "特集",
+        "title": "日韓の表現を徹底比較！東野圭吾の名作「白夜行」を料理するクリエーターの手腕を堪能せよ",
+        "url": "https://jmagazine.myjcom.jp/category/feature/post000828/",
+        "image": "https://jmagazine.myjcom.jp/uploads/250912byakuyakou01.jpg"
+      },
+      {
+        "rank": 9,
+        "category": "特集",
         "title": "これぞ真骨頂！人間の情念が渦巻く松本清張作品6選",
         "url": "https://jmagazine.myjcom.jp/category/feature/post000729/",
         "image": "https://jmagazine.myjcom.jp/uploads/250715matsumotoseityou01.jpg"
       },
       {
-        "rank": 9,
+        "rank": 10,
         "category": "特集",
         "title": "本物のエンターテイナー、大泉洋の確かな力量！30周年リサイタルで挑んだ「リベンジ」の結末",
         "url": "https://jmagazine.myjcom.jp/category/feature/post001622/",
         "image": "https://jmagazine.myjcom.jp/uploads/260817_oizumiyo_01.jpg"
-      },
-      {
-        "rank": 10,
-        "category": "特集",
-        "title": "日韓の表現を徹底比較！東野圭吾の名作「白夜行」を料理するクリエーターの手腕を堪能せよ",
-        "url": "https://jmagazine.myjcom.jp/category/feature/post000828/",
-        "image": "https://jmagazine.myjcom.jp/uploads/250912byakuyakou01.jpg"
       }
     ],
     "sports": [
@@ -732,16 +732,16 @@
       {
         "rank": 2,
         "category": "スポーツ",
-        "title": "PFU・松井珠己の的確な状況判断に注目――大同生命SVリーグ 2026-27を面白くする女子選手たち【竹下佳江】",
-        "url": "https://jmagazine.myjcom.jp/category/sports/post001920/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261118_takeshitayoshie01.webp"
+        "title": "大分東明・吉田夏樹、左足のキックとランで花園初優勝へ",
+        "url": "https://jmagazine.myjcom.jp/category/sports/post001850/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261120_gakusuporugby01.jpg"
       },
       {
         "rank": 3,
         "category": "スポーツ",
-        "title": "大分東明・吉田夏樹、左足のキックとランで花園初優勝へ",
-        "url": "https://jmagazine.myjcom.jp/category/sports/post001850/",
-        "image": "https://jmagazine.myjcom.jp/uploads/261120_gakusuporugby01.jpg"
+        "title": "PFU・松井珠己の的確な状況判断に注目――大同生命SVリーグ 2026-27を面白くする女子選手たち【竹下佳江】",
+        "url": "https://jmagazine.myjcom.jp/category/sports/post001920/",
+        "image": "https://jmagazine.myjcom.jp/uploads/261118_takeshitayoshie01.webp"
       },
       {
         "rank": 4,
